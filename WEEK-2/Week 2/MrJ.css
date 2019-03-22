@@ -1,0 +1,77 @@
+*{
+    Margin: 0;
+    padding: 0;
+}
+body{  
+    margin: 20;
+    padding: 20;
+    background-color: whitesmoke;
+}
+nav
+{
+    width: 100%;
+    height: 100px;
+    background-color: white;
+}
+
+ul li 
+{
+list-style: none;
+display: inline-block;
+
+}
+
+ul li a{
+text-decoration: none;
+font-size:100px;
+font-family: 'Raleway', sans-serif;
+color: lightgrey;
+opacity: 20;
+}
+h1{
+    color: lightgrey;
+    font-size:130px;
+    text-align: right;
+    background: lightyellow;
+    font-family: Arial;
+    opacity: 5;
+}
+p{
+ color: rgb(5, 76, 146);
+ font-size: 25px;
+} 
+h5{
+    color: lightgrey;
+    font-size: 50px;
+    text-align: right;
+    font-family: fantasy;
+    font-style: none;
+    font-weight: 100;
+}
+h2{
+    color: red;
+    font-size: 35;
+    background-color: rgb(243, 196, 196);
+    text-align: right;
+    opacity: .5;
+}
+h3{
+    color:dodgerblue;
+    font-size: 35;
+    background-color: rgb(193, 215, 243);
+    opacity: .5;
+    text-align:right;
+}
+h4{
+    color: rgb(20, 3, 3);
+    font-size: 35px;
+    background-color: rgb(255, 254, 254);
+    text-align: right;
+    opacity: .5;
+}
+/*first SUCCESSFUL USE OF DIV YAAAAY!!!*/
+.first{
+    color:rgb(5, 76,146);
+    background-color: none;
+    text-align: left;
+} 

@@ -1,0 +1,13 @@
+body{
+background-color: url("star.png");
+background-position: 20ox 10px;
+background-repeat: no repeat;
+}
+p{
+  background-color: white
+
+.border-double{
+    border: 6px double blue;
+}
+
+}
